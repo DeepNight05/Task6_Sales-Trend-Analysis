@@ -5,7 +5,7 @@ Perform sales trend analysis to determine monthly revenue and order volume using
 
 ---
 
-## 🛠Tools
+## Tools
 - Any SQL-based RDBMS: **PostgreSQL**, **MySQL**, or **SQLite**
 - This task is demonstrated using SQLite-compatible syntax. Adjust functions as necessary for your SQL engine.
 
